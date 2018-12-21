@@ -1,0 +1,1 @@
+CREATE VIEW viewName as  select * from a left join c on 1=1;
